@@ -3,3 +3,5 @@ dist
 .yarn
 errorLogs.log
 warningLogs.log
+# Local settings and secrets: never commit these
+.env
